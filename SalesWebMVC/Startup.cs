@@ -12,8 +12,6 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SalesWebMVC.Data;
 
-using SalesWebMVC.Data;
-
 namespace SalesWebMVC
 {
     public class Startup
